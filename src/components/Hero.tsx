@@ -41,7 +41,7 @@ const Hero = () => {
 
             <div className="flex items-center space-x-8 pt-4">
               <div className="text-center">
-                <div className="text-2xl font-bold text-gray-900">500+</div>
+                <div className="text-2xl font-bold text-gray-900">100</div>
                 <div className="text-sm text-gray-600">Учеников</div>
               </div>
               <div className="text-center">
